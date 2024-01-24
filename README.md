@@ -2,13 +2,19 @@
 testing minimal setup with vite, react, pages.
 
 create a repo with a readme file.
+New - Project from version control:
+Your github repo code url.
 
-In project cmd run.
+In local project create index.html
+fill it with basic content.
+Add h1 tag and write something in it.
+
+In lo project cmd run.
 npm install --save-development vite
 npm pkg set scripts.dev=vite
 npm install react react-dom
 npm install typescript
-npm install ol
+ npm install ol
 
 create a .gitignore and add
 ````
@@ -46,6 +52,7 @@ Create a folder in the local project:
 make a file in it called:
 node.js.yml
 
+Fill it with the below code.
 Make sure it looks like this.
 
 ````
